@@ -1,3 +1,4 @@
+# коммент чтобы был
 import typer
 
 def main(
